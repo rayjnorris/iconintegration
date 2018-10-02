@@ -1,0 +1,17 @@
+    <head>
+        <meta charset="utf-8">
+        <title>About Us - ICON Integration &amp; Design, Inc.</title>
+        <meta content="ICON Integration and Design offers Strategic Information Technology Solutions and Services globally.  ICON focuses on data and the processes affecting data quality and integrity" name="description">
+        <meta content="About Us  - ICON Integration &amp; Design, Inc." property="og:title">
+        <meta content="ICON Integration and Design offers Strategic Information Technology Solutions and Services globally.  ICON focuses on data and the processes affecting data quality and integrity" property="og:description">
+        <meta content="summary" name="twitter:card">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link href="css/normalize.css" rel="stylesheet" type="text/css">
+        <link href="css/components.css" rel="stylesheet" type="text/css">
+        <link href="css/iconintegration.css" rel="stylesheet" type="text/css">
+        <script src="js/modernizr.js" type="text/javascript"></script>
+        <link href="images/icon_favicon.png" rel="shortcut icon" type="image/x-icon">
+        <meta name="google-site-verification" content="YAKyiC7Ww4X3Xx8HCSW084nHrcWg-0e4gTlq99QQkUU">
+        <meta name="msvalidate.01" content="E39C280F626368E12AEF297E906745C2">
+    </head>
