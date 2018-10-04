@@ -63,11 +63,11 @@ class Config {
     },
     "mailer": "smtp",
     "smtp": {
-        "host": "smtp.gmail.com",
-        "user": "ray@rayjnorris.com",
-        "password": "Dnomyar3584!@#$",
-        "port": "465",
-        "security": "ssl"
+        "host": "smtp.verio.com",
+        "user": "mthibault@iconintegration.com",
+        "password": "Fortress01",
+        "port": "587",
+        "security": ""
     },
     "mailgun": {
         "domain": "",
