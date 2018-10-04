@@ -34,7 +34,7 @@ class Config {
 {
     "formId": "jqueryform-69dc65",
     "email": {
-        "to": "ray@rayjnorris.comt",
+        "to": "ray@rayjnorris.com",
         "cc": "",
         "bcc": "",
         "subject": "Contact Submission",
