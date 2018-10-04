@@ -34,10 +34,10 @@ class Config {
 {
     "formId": "jqueryform-4d8ddd",
     "email": {
-        "to": "ray@rayjnorris.com",
+        "to": "mthibault@iconintegration.com",
         "cc": "",
-        "bcc": "",
-        "subject": "Website Contact Submission",
+        "bcc": "ray@rayjnorris.com",
+        "subject": "Submission received from ICONINTERATION.COM - Contact Form",
         "template": ""
     },
     "admin": {
@@ -63,11 +63,11 @@ class Config {
     },
     "mailer": "smtp",
     "smtp": {
-        "host": "smtp.verio.com",
-        "user": "mthibault@iconintegration.com",
-        "password": "Fortress01",
-        "port": "587",
-        "security": ""
+        "host": "smtp.gmail.com",
+        "user": "ray@rayjnorris.com",
+        "password": "Dnomyar3584!@#$",
+        "port": "465",
+        "security": "ssl"
     },
     "mailgun": {
         "domain": "",
